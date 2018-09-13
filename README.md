@@ -6,6 +6,9 @@ Some ASM code that allows "flashlight" masking on Game Boy.
 (c) 2018 Eldred Habert.
 
 
+![Demo GIF](demo.gif)
+
+
 Note: this ASM is using the RGBDS syntax, and compiles fine under RGBDS 0.3.7; ports to other ASM syntaxes are allowed if the license is preserved (including inclusion of the notice in the source code) and a link to this repo (the original code).
 
 
