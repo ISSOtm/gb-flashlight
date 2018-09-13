@@ -1,0 +1,9 @@
+*.gb
+*.sym
+*.map
+
+*.o
+
+*.sav
+*.srm
+*.sn*
